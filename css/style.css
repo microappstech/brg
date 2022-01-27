@@ -1,8 +1,17 @@
-.bt1{
-    background-color: #00958C;
+.bt1 {
+    background-color: #00958c;
     width: 180px;
-    
     padding-top: 10px;
     padding-bottom: 10px;
     border-radius: 20px;
+    border: none;
+}
+.img1{
+    transform: translate(72%,-22%);
+    height: 200px;
+}
+.img2{
+    transform: translate(-50%, -21%);
+    position: absolute;
+    height: 300px;
 }
